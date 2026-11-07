@@ -8,6 +8,7 @@ authors:
     email: "luis.ferrer-vidal@erau.edu"
 version: "2026.11"
 date-released: 2026-11-06
+doi: 10.5281/zenodo.24026309
 license: BSD-3-Clause
 repository-code: "https://github.com/ferrervidal/cy23"
 abstract: >-
