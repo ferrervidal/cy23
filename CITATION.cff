@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use cy23 in your work, please cite the specific version used."
+title: "cy23: A Python toolkit for thermodynamic gas-turbine cycle modeling"
+type: software
+authors:
+  - family-names: "Ferrer-Vidal"
+    given-names: "Luis"
+    email: "luis.ferrer-vidal@erau.edu"
+version: "2026.11"
+date-released: 2026-11-06
+license: BSD-3-Clause
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/cy23"
+abstract: >-
+  cy23 is a Python toolkit for thermodynamic gas-turbine cycle modeling,
+  including thermally perfect gas calculations, turbomachinery map handling,
+  customizable engine architectures, steady-state cycle matching, bleed-flow
+  arrangements, and multi-operating-point analysis.
+keywords:
+  - gas-turbine cycle modeling
+  - engine performance
+  - turbomachinery
+  - thermodynamics
+  - cycle analysis
