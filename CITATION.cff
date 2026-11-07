@@ -3,7 +3,7 @@ message: "If you use cy23 in your work, please cite the specific version used."
 title: "cy23: A Python toolkit for thermodynamic gas-turbine cycle modeling"
 type: software
 authors:
-  - family-names: "Ferrer-Vidal"
+  - family-names: "Ferrer-Vidal España-Heredia"
     given-names: "Luis"
     email: "luis.ferrer-vidal@erau.edu"
 version: "2026.11"
