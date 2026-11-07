@@ -9,7 +9,7 @@ authors:
 version: "2026.11"
 date-released: 2026-11-06
 license: BSD-3-Clause
-repository-code: "https://github.com/YOUR_GITHUB_USERNAME/cy23"
+repository-code: "https://github.com/ferrervidal/cy23"
 abstract: >-
   cy23 is a Python toolkit for thermodynamic gas-turbine cycle modeling,
   including thermally perfect gas calculations, turbomachinery map handling,
