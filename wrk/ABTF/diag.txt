@@ -1,0 +1,998 @@
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8731e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7145e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.243E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8731e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7145e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.243E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8731e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7145e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.243E+01 
+----------------------
+----------------------
+amb|W     	 46.786103           	 noz|ERR   	 3.8904e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 -1.2247e-01         
+lpc|beta  	 0.990039            	 lpc|ERR   	 -1.2247e-01         
+hpc|beta  	 9.203881            	 hpc|ERR   	 -1.2480e-01         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.2481e-01         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.2481e-01         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7191e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -2.3708e-04         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 2.3240e-03          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8719e+01          
+fan|beta  	 15.920855           	 fan|ERR   	 1.9342e-03          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7290e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -2.3028e-01         
+----------------------
+ERROR RMS: 1.242E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8665e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.991252            	 lpc|ERR   	 1.2232e-01          
+hpc|beta  	 9.203881            	 hpc|ERR   	 5.3998e-02          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 4.6232e-02          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 4.6736e-02          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7098e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 7.5719e-03          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6738e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -5.0285e-02         
+----------------------
+ERROR RMS: 1.241E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8782e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.215153            	 hpc|ERR   	 6.1748e-03          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -3.5325e-02         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -3.5667e-02         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7131e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 1.0415e-01          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6601e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 3.8920e-02          
+----------------------
+ERROR RMS: 1.244E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8731e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1888317595129714.500000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7100e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.243E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8325e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 1.5764e-01          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 2.8150e-01          
+hpshft|Nmech	 0.861457            	 hpt|ERR   	 2.8543e-01          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7268e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -8.5475e-01         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.7184e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -3.1095e-01         
+----------------------
+ERROR RMS: 1.231E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8889e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 4.4220e-04          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.609401            	 lpshft|ERR	 3.7286e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 1.2247e-01          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8889e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.0851e-01         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 1.6319e-03          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7088e-14          
+hpt|ER    	 5.588381            	 hpshft|ERR	 3.9878e-01          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 1.2247e-01          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8756e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -2.8323e-02         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -2.5104e-02         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7260e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 2.6206e-01          
+comb|FAR  	 0.021230            	 comb|ERR  	 6.7179e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.244E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8711e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 -4.0356e-02         
+lpc|beta  	 0.990039            	 lpc|ERR   	 8.2018e-02          
+hpc|beta  	 9.203881            	 hpc|ERR   	 8.3573e-02          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 8.3578e-02          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 8.3578e-02          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7001e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 1.5844e-04          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.034853            	 mxr|ERR   	 -1.5562e-03         
+----------------------
+ERROR RMS: 1.242E+01 
+----------------------
+----------------------
+amb|W     	 45.322959           	 noz|ERR   	 1.1913e+02          
+fan|beta  	 13.772726           	 fan|ERR   	 -4.0720e+02         
+lpc|beta  	 0.903863            	 lpc|ERR   	 -5.9080e+02         
+hpc|beta  	 8.908072            	 hpc|ERR   	 -1.3067e+02         
+lpshft|Nmech	 -504491471037082.750000	 lpt|ERR   	 -1.3281e+02         
+hpshft|Nmech	 0.827923            	 hpt|ERR   	 -1.3325e+02         
+lpt|ER    	 2.877957            	 lpshft|ERR	 -2.5286e-13         
+hpt|ER    	 5.600785            	 hpshft|ERR	 3.3419e+01          
+comb|FAR  	 0.018805            	 comb|ERR  	 -1.1131e+01         
+spl|BPR   	 2.204896            	 mxr|ERR   	 -1.3805e+01         
+----------------------
+ERROR RMS: 2.414E+02 
+----------------------
+----------------------
+amb|W     	 43.552215           	 noz|ERR   	 3.6463e+01          
+fan|beta  	 15.709125           	 fan|ERR   	 1.1101e+01          
+lpc|beta  	 1.168048            	 lpc|ERR   	 -9.2269e-01         
+hpc|beta  	 8.652474            	 hpc|ERR   	 -4.0358e+00         
+lpshft|Nmech	 2075242824594957.750000	 lpt|ERR   	 -2.9937e+00         
+hpshft|Nmech	 0.846881            	 hpt|ERR   	 -3.1030e+00         
+lpt|ER    	 4.728129            	 lpshft|ERR	 4.2543e-14          
+hpt|ER    	 5.583823            	 hpshft|ERR	 -2.7913e+00         
+comb|FAR  	 0.020348            	 comb|ERR  	 4.6759e+00          
+spl|BPR   	 1.771304            	 mxr|ERR   	 7.2863e+00          
+----------------------
+ERROR RMS: 1.253E+01 
+----------------------
+----------------------
+amb|W     	 46.786103           	 noz|ERR   	 3.8904e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 -1.2247e-01         
+lpc|beta  	 0.990039            	 lpc|ERR   	 -1.2247e-01         
+hpc|beta  	 9.203881            	 hpc|ERR   	 -1.2480e-01         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.2481e-01         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.2481e-01         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7191e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -2.3708e-04         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 2.3240e-03          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8719e+01          
+fan|beta  	 15.920855           	 fan|ERR   	 1.9342e-03          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7290e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -2.3028e-01         
+----------------------
+ERROR RMS: 1.242E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8665e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.991252            	 lpc|ERR   	 1.2232e-01          
+hpc|beta  	 9.203881            	 hpc|ERR   	 5.3998e-02          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 4.6232e-02          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 4.6736e-02          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7098e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 7.5719e-03          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6738e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -5.0285e-02         
+----------------------
+ERROR RMS: 1.241E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8782e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.215153            	 hpc|ERR   	 6.1748e-03          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -3.5325e-02         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -3.5667e-02         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7131e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 1.0415e-01          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6601e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 3.8920e-02          
+----------------------
+ERROR RMS: 1.244E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8731e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1888317595129714.500000	 lpt|ERR   	 -1.8413e-11         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7100e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.243E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8325e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 1.5764e-01          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 2.8150e-01          
+hpshft|Nmech	 0.861457            	 hpt|ERR   	 2.8543e-01          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7268e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -8.5475e-01         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.7184e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 -3.1095e-01         
+----------------------
+ERROR RMS: 1.231E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8889e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 4.4220e-04          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -1.8758e-11         
+lpt|ER    	 4.609401            	 lpshft|ERR	 3.7286e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 -9.9957e-14         
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 1.2247e-01          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8889e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -1.0851e-01         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 1.6319e-03          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7088e-14          
+hpt|ER    	 5.588381            	 hpshft|ERR	 3.9878e-01          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 1.2247e-01          
+----------------------
+ERROR RMS: 1.248E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8756e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 9.3910e-12          
+lpc|beta  	 0.990039            	 lpc|ERR   	 1.0674e-11          
+hpc|beta  	 9.203881            	 hpc|ERR   	 -5.9453e-12         
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 -2.8323e-02         
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 -2.5104e-02         
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7260e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 2.6206e-01          
+comb|FAR  	 0.021230            	 comb|ERR  	 6.7179e+00          
+spl|BPR   	 2.032364            	 mxr|ERR   	 4.5913e-12          
+----------------------
+ERROR RMS: 1.244E+01 
+----------------------
+----------------------
+amb|W     	 46.728872           	 noz|ERR   	 3.8711e+01          
+fan|beta  	 15.901380           	 fan|ERR   	 -4.0356e-02         
+lpc|beta  	 0.990039            	 lpc|ERR   	 8.2018e-02          
+hpc|beta  	 9.203881            	 hpc|ERR   	 8.3573e-02          
+lpshft|Nmech	 1886007716851096.250000	 lpt|ERR   	 8.3578e-02          
+hpshft|Nmech	 0.860403            	 hpt|ERR   	 8.3578e-02          
+lpt|ER    	 4.603763            	 lpshft|ERR	 3.7001e-14          
+hpt|ER    	 5.581545            	 hpshft|ERR	 1.5844e-04          
+comb|FAR  	 0.021204            	 comb|ERR  	 6.6667e+00          
+spl|BPR   	 2.034853            	 mxr|ERR   	 -1.5562e-03         
+----------------------
+ERROR RMS: 1.242E+01 
+----------------------
+----------------------
+amb|W     	 45.322959           	 noz|ERR   	 1.1913e+02          
+fan|beta  	 13.772726           	 fan|ERR   	 -4.0720e+02         
+lpc|beta  	 0.903863            	 lpc|ERR   	 -5.9080e+02         
+hpc|beta  	 8.908072            	 hpc|ERR   	 -1.3067e+02         
+lpshft|Nmech	 -504491471037082.750000	 lpt|ERR   	 -1.3281e+02         
+hpshft|Nmech	 0.827923            	 hpt|ERR   	 -1.3325e+02         
+lpt|ER    	 2.877957            	 lpshft|ERR	 -2.5286e-13         
+hpt|ER    	 5.600785            	 hpshft|ERR	 3.3419e+01          
+comb|FAR  	 0.018805            	 comb|ERR  	 -1.1131e+01         
+spl|BPR   	 2.204896            	 mxr|ERR   	 -1.3805e+01         
+----------------------
+ERROR RMS: 2.414E+02 
+----------------------
+----------------------
+amb|W     	 43.552215           	 noz|ERR   	 3.6463e+01          
+fan|beta  	 15.709125           	 fan|ERR   	 1.1101e+01          
+lpc|beta  	 1.168048            	 lpc|ERR   	 -9.2269e-01         
+hpc|beta  	 8.652474            	 hpc|ERR   	 -4.0358e+00         
+lpshft|Nmech	 2075242824594957.750000	 lpt|ERR   	 -2.9937e+00         
+hpshft|Nmech	 0.846881            	 hpt|ERR   	 -3.1030e+00         
+lpt|ER    	 4.728129            	 lpshft|ERR	 4.2543e-14          
+hpt|ER    	 5.583823            	 hpshft|ERR	 -2.7913e+00         
+comb|FAR  	 0.020348            	 comb|ERR  	 4.6759e+00          
+spl|BPR   	 1.771304            	 mxr|ERR   	 7.2863e+00          
+----------------------
+ERROR RMS: 1.253E+01 
+----------------------
+----------------------
+amb|W     	 45.689907           	 noz|ERR   	 3.6003e+01          
+fan|beta  	 15.843364           	 fan|ERR   	 3.2528e+00          
+lpc|beta  	 1.115342            	 lpc|ERR   	 1.1438e+00          
+hpc|beta  	 8.977991            	 hpc|ERR   	 -2.7600e-01         
+lpshft|Nmech	 2001316851823847.750000	 lpt|ERR   	 2.5868e-01          
+hpshft|Nmech	 0.855682            	 hpt|ERR   	 1.8910e-01          
+lpt|ER    	 4.599687            	 lpshft|ERR	 3.5513e-14          
+hpt|ER    	 5.579760            	 hpshft|ERR	 -1.1001e+00         
+comb|FAR  	 0.020925            	 comb|ERR  	 6.0670e+00          
+spl|BPR   	 1.968502            	 mxr|ERR   	 7.9131e-01          
+----------------------
+ERROR RMS: 1.161E+01 
+----------------------
+----------------------
+amb|W     	 44.420556           	 noz|ERR   	 3.0441e+01          
+fan|beta  	 15.677788           	 fan|ERR   	 7.1027e+00          
+lpc|beta  	 1.387966            	 lpc|ERR   	 1.5903e+00          
+hpc|beta  	 8.728732            	 hpc|ERR   	 -8.0410e-01         
+lpshft|Nmech	 2464368966419307.000000	 lpt|ERR   	 4.7178e-01          
+hpshft|Nmech	 0.850699            	 hpt|ERR   	 1.9888e-01          
+lpt|ER    	 4.494393            	 lpshft|ERR	 2.6956e-14          
+hpt|ER    	 5.570368            	 hpshft|ERR	 -4.2437e+00         
+comb|FAR  	 0.020511            	 comb|ERR  	 5.1388e+00          
+spl|BPR   	 1.897116            	 mxr|ERR   	 1.0659e+00          
+----------------------
+ERROR RMS: 1.013E+01 
+----------------------
+----------------------
+amb|W     	 43.266871           	 noz|ERR   	 2.2666e+01          
+fan|beta  	 15.286959           	 fan|ERR   	 9.9390e+00          
+lpc|beta  	 1.945456            	 lpc|ERR   	 3.3616e+00          
+hpc|beta  	 8.400656            	 hpc|ERR   	 -9.6599e-01         
+lpshft|Nmech	 2307237904716729.000000	 lpt|ERR   	 5.0313e-01          
+hpshft|Nmech	 0.840149            	 hpt|ERR   	 2.4312e-01          
+lpt|ER    	 4.225778            	 lpshft|ERR	 1.9541e-14          
+hpt|ER    	 5.575617            	 hpshft|ERR	 -4.1349e+00         
+comb|FAR  	 0.019950            	 comb|ERR  	 3.6602e+00          
+spl|BPR   	 1.869529            	 mxr|ERR   	 1.7828e+00          
+----------------------
+ERROR RMS: 8.116E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.9890e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.5775e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5461e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4658e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3536e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5978e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.5317e-01          
+----------------------
+ERROR RMS: 4.807E+00 
+----------------------
+----------------------
+amb|W     	 42.630592           	 noz|ERR   	 1.3363e+02          
+fan|beta  	 13.549719           	 fan|ERR   	 -3.6439e+02         
+lpc|beta  	 3.584698            	 lpc|ERR   	 -4.7886e+02         
+hpc|beta  	 8.137822            	 hpc|ERR   	 -1.3362e+02         
+lpshft|Nmech	 -1750588813884336.250000	 lpt|ERR   	 -1.3221e+02         
+hpshft|Nmech	 0.818389            	 hpt|ERR   	 -1.3356e+02         
+lpt|ER    	 3.197241            	 lpshft|ERR	 -8.1050e-14         
+hpt|ER    	 5.590978            	 hpshft|ERR	 3.1215e+01          
+comb|FAR  	 0.018687            	 comb|ERR  	 -1.1292e+01         
+spl|BPR   	 2.000391            	 mxr|ERR   	 -4.5874e+00         
+----------------------
+ERROR RMS: 2.084E+02 
+----------------------
+----------------------
+amb|W     	 61.527510           	 noz|ERR   	 1.9896e+02          
+fan|beta  	 12.603211           	 fan|ERR   	 -6.1383e+02         
+lpc|beta  	 2.388838            	 lpc|ERR   	 -6.8914e+02         
+hpc|beta  	 6.325242            	 hpc|ERR   	 -2.2099e+02         
+lpshft|Nmech	 -8040430129468810.000000	 lpt|ERR   	 -2.1150e+02         
+hpshft|Nmech	 0.775155            	 hpt|ERR   	 -2.1545e+02         
+lpt|ER    	 2.845282            	 lpshft|ERR	 -1.9877e-14         
+hpt|ER    	 5.544952            	 hpshft|ERR	 2.4623e+01          
+comb|FAR  	 0.017495            	 comb|ERR  	 -1.3905e+01         
+spl|BPR   	 2.293214            	 mxr|ERR   	 -1.1948e+01         
+----------------------
+ERROR RMS: 3.213E+02 
+----------------------
+----------------------
+amb|W     	 42.373202           	 noz|ERR   	 7.1224e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1036e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 6.9688e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -3.7683e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 5.3390e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 5.3076e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4676e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3567e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5980e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.5537e-01          
+----------------------
+ERROR RMS: 4.782E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.9805e+00          
+fan|beta  	 14.323164           	 fan|ERR   	 1.1147e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.5775e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5461e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4441e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3536e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5978e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 4.6641e-01          
+----------------------
+ERROR RMS: 4.804E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.9892e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.068292            	 lpc|ERR   	 7.0835e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5223e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.5762e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5447e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4656e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3540e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5961e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.5340e-01          
+----------------------
+ERROR RMS: 4.807E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 7.0133e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.099518            	 hpc|ERR   	 -2.4407e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.3647e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.3306e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4675e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.2663e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5397e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.7806e-01          
+----------------------
+ERROR RMS: 4.806E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.9890e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1096073733592323.375000	 lpt|ERR   	 6.5775e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5461e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4640e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3536e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5978e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.5317e-01          
+----------------------
+ERROR RMS: 4.807E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.6508e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -8.5139e-02         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 9.5926e-01          
+hpshft|Nmech	 0.824394            	 hpt|ERR   	 9.5981e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4484e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -3.2051e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 1.0146e+00          
+spl|BPR   	 1.910984            	 mxr|ERR   	 3.1526e-01          
+----------------------
+ERROR RMS: 4.815E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 7.1108e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.5948e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5461e-01          
+lpt|ER    	 3.577348            	 lpshft|ERR	 -1.4427e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3536e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5978e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 7.7645e-01          
+----------------------
+ERROR RMS: 4.826E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 7.1108e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 5.5019e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.5623e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4734e-14         
+hpt|ER    	 5.599324            	 hpshft|ERR	 -1.9835e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5978e-01          
+spl|BPR   	 1.910984            	 mxr|ERR   	 7.7645e-01          
+----------------------
+ERROR RMS: 4.808E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 7.0065e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1145e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.0826e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -2.5186e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 6.3142e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 6.3073e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4519e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.0993e+00         
+comb|FAR  	 0.019003            	 comb|ERR  	 1.0066e+00          
+spl|BPR   	 1.910984            	 mxr|ERR   	 6.5317e-01          
+----------------------
+ERROR RMS: 4.798E+00 
+----------------------
+----------------------
+amb|W     	 42.321369           	 noz|ERR   	 6.9742e+00          
+fan|beta  	 14.305643           	 fan|ERR   	 1.1108e+01          
+lpc|beta  	 3.064539            	 lpc|ERR   	 7.1573e+00          
+hpc|beta  	 8.089610            	 hpc|ERR   	 -1.6988e-01         
+lpshft|Nmech	 1094732965007886.625000	 lpt|ERR   	 7.3899e-01          
+hpshft|Nmech	 0.823386            	 hpt|ERR   	 7.3584e-01          
+lpt|ER    	 3.572972            	 lpshft|ERR	 -1.4842e-14         
+hpt|ER    	 5.592475            	 hpshft|ERR	 -2.3516e+00         
+comb|FAR  	 0.018980            	 comb|ERR  	 9.5977e-01          
+spl|BPR   	 1.913325            	 mxr|ERR   	 6.5173e-01          
+----------------------
+ERROR RMS: 4.809E+00 
+----------------------
+----------------------
+amb|W     	 43.135766           	 noz|ERR   	 4.8748e+00          
+fan|beta  	 14.358778           	 fan|ERR   	 9.5102e+00          
+lpc|beta  	 2.495324            	 lpc|ERR   	 5.0186e+00          
+hpc|beta  	 8.112855            	 hpc|ERR   	 -2.3589e+00         
+lpshft|Nmech	 1777291562267660.000000	 lpt|ERR   	 -1.8145e+00         
+hpshft|Nmech	 0.823153            	 hpt|ERR   	 -1.7320e+00         
+lpt|ER    	 3.416118            	 lpshft|ERR	 -1.3579e-14         
+hpt|ER    	 5.592616            	 hpshft|ERR	 -1.9695e-01         
+comb|FAR  	 0.019136            	 comb|ERR  	 1.2709e+00          
+spl|BPR   	 1.906699            	 mxr|ERR   	 -4.1502e+00         
+----------------------
+ERROR RMS: 4.125E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0409e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 4.1588e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.6961e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3863e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0825e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5979e+00         
+----------------------
+ERROR RMS: 3.662E+00 
+----------------------
+----------------------
+amb|W     	 43.672376           	 noz|ERR   	 7.2306e+00          
+fan|beta  	 13.884796           	 fan|ERR   	 7.2178e+00          
+lpc|beta  	 -0.935878           	 lpc|ERR   	 -7.4588e-01         
+hpc|beta  	 8.037711            	 hpc|ERR   	 -4.3977e+00         
+lpshft|Nmech	 3230140464877334.000000	 lpt|ERR   	 -3.3567e+00         
+hpshft|Nmech	 0.821839            	 hpt|ERR   	 -3.2223e+00         
+lpt|ER    	 3.358187            	 lpshft|ERR	 -1.1661e-14         
+hpt|ER    	 5.595904            	 hpshft|ERR	 -1.1700e+00         
+comb|FAR  	 0.019073            	 comb|ERR  	 8.1274e-01          
+spl|BPR   	 1.975835            	 mxr|ERR   	 1.8598e+00          
+----------------------
+ERROR RMS: 3.891E+00 
+----------------------
+----------------------
+amb|W     	 44.052303           	 noz|ERR   	 8.5586e+01          
+fan|beta  	 13.709754           	 fan|ERR   	 5.3179e+00          
+lpc|beta  	 0.210311            	 lpc|ERR   	 -3.4201e+02         
+hpc|beta  	 8.266114            	 hpc|ERR   	 -7.9685e+01         
+lpshft|Nmech	 4433168287329606.000000	 lpt|ERR   	 -7.7408e+01         
+hpshft|Nmech	 0.823201            	 hpt|ERR   	 -7.8036e+01         
+lpt|ER    	 3.245708            	 lpshft|ERR	 1.8344e-15          
+hpt|ER    	 5.591350            	 hpshft|ERR	 2.0831e+01          
+comb|FAR  	 0.019068            	 comb|ERR  	 -6.9931e+00         
+spl|BPR   	 2.044576            	 mxr|ERR   	 8.2760e+01          
+----------------------
+ERROR RMS: 1.225E+02 
+----------------------
+----------------------
+amb|W     	 43.403412           	 noz|ERR   	 4.1706e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 7.9338e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.1177e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -7.7185e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 2.9173e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 2.4540e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3880e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0865e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5957e+00         
+----------------------
+ERROR RMS: 3.633E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0324e+00          
+fan|beta  	 14.014196           	 fan|ERR   	 8.0482e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 4.1588e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.6961e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3767e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0825e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.7709e+00         
+----------------------
+ERROR RMS: 3.670E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0409e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.353811            	 lpc|ERR   	 6.2329e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4636e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 4.1598e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.6970e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3863e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0826e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1899e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5980e+00         
+----------------------
+ERROR RMS: 3.662E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0644e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.042146            	 hpc|ERR   	 -6.3859e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 3.9475e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.4821e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3870e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -2.9952e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1842e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5738e+00         
+----------------------
+ERROR RMS: 3.656E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0409e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2612725615714356.000000	 lpt|ERR   	 4.1588e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.6961e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3846e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0825e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5979e+00         
+----------------------
+ERROR RMS: 3.662E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 3.7112e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -4.7862e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 7.1869e-01          
+hpshft|Nmech	 0.824940            	 hpt|ERR   	 6.7627e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3792e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.9411e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.2450e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.9289e+00         
+----------------------
+ERROR RMS: 3.733E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.1595e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 4.1776e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.6961e-01          
+lpt|ER    	 3.402164            	 lpshft|ERR	 -1.3764e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0825e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.4774e+00         
+----------------------
+ERROR RMS: 3.670E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.1595e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 3.0805e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.7124e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3894e-14         
+hpt|ER    	 5.591225            	 hpshft|ERR	 -2.7099e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.4774e+00         
+----------------------
+ERROR RMS: 3.640E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0578e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0465e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.2325e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -6.4638e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 3.8947e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 3.4567e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3806e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -2.8274e+00         
+comb|FAR  	 0.019054            	 comb|ERR  	 1.2369e+00          
+spl|BPR   	 1.967559            	 mxr|ERR   	 -1.5979e+00         
+----------------------
+ERROR RMS: 3.644E+00 
+----------------------
+----------------------
+amb|W     	 43.350319           	 noz|ERR   	 4.0265e+00          
+fan|beta  	 13.997053           	 fan|ERR   	 8.0085e+00          
+lpc|beta  	 1.352155            	 lpc|ERR   	 6.3086e+00          
+hpc|beta  	 8.032308            	 hpc|ERR   	 -5.6326e-01         
+lpshft|Nmech	 2609529607710568.000000	 lpt|ERR   	 4.9813e-01          
+hpshft|Nmech	 0.823931            	 hpt|ERR   	 4.5190e-01          
+lpt|ER    	 3.398002            	 lpshft|ERR	 -1.3938e-14         
+hpt|ER    	 5.584385            	 hpshft|ERR	 -3.0798e+00         
+comb|FAR  	 0.019030            	 comb|ERR  	 1.1900e+00          
+spl|BPR   	 1.969969            	 mxr|ERR   	 -1.5993e+00         
+----------------------
+ERROR RMS: 3.666E+00 
+----------------------
+----------------------
+amb|W     	 43.630280           	 noz|ERR   	 1.4703e+01          
+fan|beta  	 13.943535           	 fan|ERR   	 7.4580e+00          
+lpc|beta  	 0.780425            	 lpc|ERR   	 -2.1065e+01         
+hpc|beta  	 8.091613            	 hpc|ERR   	 -1.2550e+01         
+lpshft|Nmech	 2794731172544292.500000	 lpt|ERR   	 -1.0151e+01         
+hpshft|Nmech	 0.822888            	 hpt|ERR   	 -1.0064e+01         
+lpt|ER    	 3.375175            	 lpshft|ERR	 -7.7229e-15         
+hpt|ER    	 5.596635            	 hpshft|ERR	 -3.3357e+00         
+comb|FAR  	 0.019115            	 comb|ERR  	 -2.0849e-02         
+spl|BPR   	 1.966784            	 mxr|ERR   	 8.7745e+00          
+----------------------
+ERROR RMS: 1.080E+01 
+----------------------
+----------------------
+amb|W     	 45.015868           	 noz|ERR   	 -3.4044e+00         
+fan|beta  	 13.172214           	 fan|ERR   	 7.7764e-01          
+lpc|beta  	 1.147033            	 lpc|ERR   	 9.8482e+00          
+hpc|beta  	 8.559248            	 hpc|ERR   	 3.5751e+00          
+lpshft|Nmech	 8846988434097817.000000	 lpt|ERR   	 2.9086e+00          
+hpshft|Nmech	 0.822811            	 hpt|ERR   	 2.9882e+00          
+lpt|ER    	 2.987735            	 lpshft|ERR	 -1.1762e-14         
+hpt|ER    	 5.580197            	 hpshft|ERR	 9.9754e-01          
+comb|FAR  	 0.018914            	 comb|ERR  	 5.9148e-01          
+spl|BPR   	 2.206840            	 mxr|ERR   	 -4.6821e+00         
+----------------------
+ERROR RMS: 4.033E+00 
+----------------------
+----------------------
+amb|W     	 43.862265           	 noz|ERR   	 3.4444e+00          
+fan|beta  	 13.772183           	 fan|ERR   	 6.1785e+00          
+lpc|beta  	 1.217319            	 lpc|ERR   	 6.6029e+00          
+hpc|beta  	 8.188926            	 hpc|ERR   	 -2.3361e-01         
+lpshft|Nmech	 4611495515437194.000000	 lpt|ERR   	 1.8701e-02          
+hpshft|Nmech	 0.823027            	 hpt|ERR   	 1.3065e-01          
+lpt|ER    	 3.308940            	 lpshft|ERR	 -1.1175e-14         
+hpt|ER    	 5.591853            	 hpshft|ERR	 5.2232e-02          
+comb|FAR  	 0.019081            	 comb|ERR  	 1.1560e+00          
+spl|BPR   	 2.015546            	 mxr|ERR   	 -1.1544e+00         
+----------------------
+ERROR RMS: 3.104E+00 
+----------------------
+----------------------
+amb|W     	 44.414192           	 noz|ERR   	 4.7955e+00          
+fan|beta  	 13.617578           	 fan|ERR   	 4.6842e+00          
+lpc|beta  	 0.933671            	 lpc|ERR   	 -7.1680e-01         
+hpc|beta  	 8.209866            	 hpc|ERR   	 -3.8452e+00         
+lpshft|Nmech	 6421066255468527.000000	 lpt|ERR   	 -2.9182e+00         
+hpshft|Nmech	 0.823239            	 hpt|ERR   	 -2.9304e+00         
+lpt|ER    	 3.228033            	 lpshft|ERR	 -8.9937e-15         
+hpt|ER    	 5.583566            	 hpshft|ERR	 -2.1133e+00         
+comb|FAR  	 0.019020            	 comb|ERR  	 6.6659e-01          
+spl|BPR   	 2.034411            	 mxr|ERR   	 3.9973e-01          
+----------------------
+ERROR RMS: 2.871E+00 
+----------------------
+----------------------
+amb|W     	 45.065430           	 noz|ERR   	 1.3040e+01          
+fan|beta  	 13.087608           	 fan|ERR   	 1.7910e-01          
+lpc|beta  	 0.632389            	 lpc|ERR   	 -4.1253e+01         
+hpc|beta  	 8.646691            	 hpc|ERR   	 -1.5273e+01         
+lpshft|Nmech	 12473839830772920.000000	 lpt|ERR   	 -1.3227e+01         
+hpshft|Nmech	 0.823239            	 hpt|ERR   	 -1.3313e+01         
+lpt|ER    	 2.949318            	 lpshft|ERR	 -6.5590e-15         
+hpt|ER    	 5.578132            	 hpshft|ERR	 -1.9876e+00         
+comb|FAR  	 0.018941            	 comb|ERR  	 -1.7924e+00         
+spl|BPR   	 2.241221            	 mxr|ERR   	 1.3229e+01          
+----------------------
+ERROR RMS: 1.625E+01 
+----------------------
+----------------------
+amb|W     	 45.156401           	 noz|ERR   	 -1.4358e+00         
+fan|beta  	 13.070744           	 fan|ERR   	 1.0397e-01          
+lpc|beta  	 0.934510            	 lpc|ERR   	 3.9436e+00          
+hpc|beta  	 8.545717            	 hpc|ERR   	 1.1059e+00          
+lpshft|Nmech	 11997203382880112.000000	 lpt|ERR   	 9.6800e-01          
+hpshft|Nmech	 0.822389            	 hpt|ERR   	 1.0084e+00          
+lpt|ER    	 2.962588            	 lpshft|ERR	 -8.7918e-15         
+hpt|ER    	 5.578246            	 hpshft|ERR	 -1.9086e-01         
+comb|FAR  	 0.018884            	 comb|ERR  	 1.5384e-01          
+spl|BPR   	 2.231898            	 mxr|ERR   	 -1.9843e+00         
+----------------------
+ERROR RMS: 1.575E+00 
+----------------------
+----------------------
+amb|W     	 45.113714           	 noz|ERR   	 -1.3702e-01         
+fan|beta  	 13.028669           	 fan|ERR   	 8.8732e-03          
+lpc|beta  	 0.902347            	 lpc|ERR   	 1.0220e+00          
+hpc|beta  	 8.585570            	 hpc|ERR   	 1.8931e-01          
+lpshft|Nmech	 14005264900683138.000000	 lpt|ERR   	 2.0759e-01          
+hpshft|Nmech	 0.822524            	 hpt|ERR   	 2.0308e-01          
+lpt|ER    	 2.966530            	 lpshft|ERR	 -7.4522e-15         
+hpt|ER    	 5.576200            	 hpshft|ERR	 -1.9786e-01         
+comb|FAR  	 0.018916            	 comb|ERR  	 1.5437e-02          
+spl|BPR   	 2.245224            	 mxr|ERR   	 -1.2498e-01         
+----------------------
+ERROR RMS: 3.519E-01 
+----------------------
+----------------------
+amb|W     	 45.079664           	 noz|ERR   	 -1.2807e-02         
+fan|beta  	 13.038942           	 fan|ERR   	 3.8082e-03          
+lpc|beta  	 0.890432            	 lpc|ERR   	 -4.2188e-02         
+hpc|beta  	 8.628772            	 hpc|ERR   	 -1.3116e-02         
+lpshft|Nmech	 16103490056724226.000000	 lpt|ERR   	 -1.6203e-02         
+hpshft|Nmech	 0.822912            	 hpt|ERR   	 -1.4129e-02         
+lpt|ER    	 2.958634            	 lpshft|ERR	 -6.4548e-15         
+hpt|ER    	 5.576333            	 hpshft|ERR	 6.3675e-03          
+comb|FAR  	 0.018945            	 comb|ERR  	 -1.0950e-03         
+spl|BPR   	 2.251213            	 mxr|ERR   	 1.4409e-03          
+----------------------
+ERROR RMS: 1.624E-02 
+----------------------
+----------------------
+amb|W     	 45.080745           	 noz|ERR   	 1.3860e-03          
+fan|beta  	 13.040274           	 fan|ERR   	 6.7773e-04          
+lpc|beta  	 0.890811            	 lpc|ERR   	 9.0060e-05          
+hpc|beta  	 8.626595            	 hpc|ERR   	 -7.1187e-04         
+lpshft|Nmech	 17252724993264430.000000	 lpt|ERR   	 -4.5143e-04         
+hpshft|Nmech	 0.822889            	 hpt|ERR   	 -6.2124e-04         
+lpt|ER    	 2.959547            	 lpshft|ERR	 -6.0217e-15         
+hpt|ER    	 5.576231            	 hpshft|ERR	 -4.5401e-04         
+comb|FAR  	 0.018944            	 comb|ERR  	 4.5311e-05          
+spl|BPR   	 2.251280            	 mxr|ERR   	 3.5302e-03          
+----------------------
+ERROR RMS: 1.271E-03 
+----------------------
+----------------------
+amb|W     	 45.080837           	 noz|ERR   	 -1.1539e-04         
+fan|beta  	 13.040480           	 fan|ERR   	 5.3736e-05          
+lpc|beta  	 0.890803            	 lpc|ERR   	 2.7209e-05          
+hpc|beta  	 8.626682            	 hpc|ERR   	 -5.3873e-05         
+lpshft|Nmech	 18362207820297468.000000	 lpt|ERR   	 -5.5278e-05         
+hpshft|Nmech	 0.822890            	 hpt|ERR   	 -5.0000e-05         
+lpt|ER    	 2.959490            	 lpshft|ERR	 -5.6579e-15         
+hpt|ER    	 5.576239            	 hpshft|ERR	 -1.6854e-05         
+comb|FAR  	 0.018944            	 comb|ERR  	 2.1271e-06          
+spl|BPR   	 2.251313            	 mxr|ERR   	 9.9706e-05          
+----------------------
+ERROR RMS: 5.969E-05 
+----------------------
+----------------------
+amb|W     	 45.080841           	 noz|ERR   	 1.3656e-05          
+fan|beta  	 13.040504           	 fan|ERR   	 2.9706e-06          
+lpc|beta  	 0.890802            	 lpc|ERR   	 -2.1958e-06         
+hpc|beta  	 8.626686            	 hpc|ERR   	 -3.7631e-06         
+lpshft|Nmech	 19490512610530340.000000	 lpt|ERR   	 -2.1219e-06         
+hpshft|Nmech	 0.822890            	 hpt|ERR   	 -3.5603e-06         
+lpt|ER    	 2.959493            	 lpshft|ERR	 -5.3303e-15         
+hpt|ER    	 5.576239            	 hpshft|ERR	 -5.7768e-07         
+comb|FAR  	 0.018944            	 comb|ERR  	 8.6640e-08          
+spl|BPR   	 2.251316            	 mxr|ERR   	 2.8082e-05          
+----------------------
+ERROR RMS: 1.010E-05 
+----------------------
+----------------------
+amb|W     	 45.080842           	 noz|ERR   	 -9.6465e-07         
+fan|beta  	 13.040506           	 fan|ERR   	 -1.9289e-07         
+lpc|beta  	 0.890802            	 lpc|ERR   	 4.6073e-07          
+hpc|beta  	 8.626687            	 hpc|ERR   	 3.3340e-07          
+lpshft|Nmech	 20529081156754096.000000	 lpt|ERR   	 2.2319e-07          
+hpshft|Nmech	 0.822890            	 hpt|ERR   	 3.0770e-07          
+lpt|ER    	 2.959493            	 lpshft|ERR	 -5.0606e-15         
+hpt|ER    	 5.576239            	 hpshft|ERR	 1.7387e-07          
+comb|FAR  	 0.018944            	 comb|ERR  	 -3.7785e-09         
+spl|BPR   	 2.251317            	 mxr|ERR   	 -1.3898e-06         
+----------------------
+ERROR RMS: 5.829E-07 
+----------------------
+----------------------
+amb|W     	 45.080842           	 noz|ERR   	 2.0612e-09          
+fan|beta  	 13.040506           	 fan|ERR   	 -5.2401e-09         
+lpc|beta  	 0.890802            	 lpc|ERR   	 1.6510e-08          
+hpc|beta  	 8.626687            	 hpc|ERR   	 1.0343e-08          
+lpshft|Nmech	 21438760793540676.000000	 lpt|ERR   	 9.9363e-09          
+hpshft|Nmech	 0.822890            	 hpt|ERR   	 9.0944e-09          
+lpt|ER    	 2.959493            	 lpshft|ERR	 -4.8459e-15         
+hpt|ER    	 5.576239            	 hpshft|ERR	 1.1842e-08          
+comb|FAR  	 0.018944            	 comb|ERR  	 -1.4027e-10         
+spl|BPR   	 2.251317            	 mxr|ERR   	 1.7949e-08          
+----------------------
+ERROR RMS: 1.027E-08 
+----------------------
+----------------------
+amb|W     	 45.080842           	 noz|ERR   	 2.0612e-09          
+fan|beta  	 13.040506           	 fan|ERR   	 -5.2401e-09         
+lpc|beta  	 0.890802            	 lpc|ERR   	 1.6510e-08          
+hpc|beta  	 8.626687            	 hpc|ERR   	 1.0343e-08          
+lpshft|Nmech	 21438760793540676.000000	 lpt|ERR   	 9.9363e-09          
+hpshft|Nmech	 0.822890            	 hpt|ERR   	 9.0944e-09          
+lpt|ER    	 2.959493            	 lpshft|ERR	 -4.8459e-15         
+hpt|ER    	 5.576239            	 hpshft|ERR	 1.1842e-08          
+comb|FAR  	 0.018944            	 comb|ERR  	 -1.4027e-10         
+spl|BPR   	 2.251317            	 mxr|ERR   	 1.7949e-08          
+----------------------
+ERROR RMS: 1.027E-08 
+ 
+######----->The solution converged.
+ 
+VVVVVV --- NEXT POINT --- VVVVV

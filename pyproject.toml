@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cy23"
+version = "2026.11"
+description = "A Python toolkit for thermodynamic gas-turbine cycle modeling"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+
+authors = [
+    { name = "Luis Ferrer-Vidal" }
+]
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "pandas",
+    "pickle",
+    "datetime",
+    "tabulate",
+    "typing",
+    "pathlib",
+    "openpyxl"
+]
+
+[tool.setuptools.packages.find]
+include = ["cy23*"]
