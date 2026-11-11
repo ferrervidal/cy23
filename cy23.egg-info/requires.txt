@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+datetime
+tabulate
+typing
+pathlib
+openpyxl
